@@ -1,11 +1,11 @@
 <h1 align="center">
   </a>
-    <img src="https://github.com/CameronCosgrove/IRSS_hackathon/fig/fake_sponsors.png" alt="Header" width="125" height="125">
+    <img src="https://github.com/CameronCosgrove/IRSS_hackathon/blob/main/fig/fake_sponsors.png" alt="Header">
   </a>
 </h1>
 
-# IRSS_hackathon
-2022 IRSS lab retreat hackathon files
+# 2022 loon lake hackathon instructions
+
 
 ## The International Journal of Conspiracies and Cryptids Call for papers 
 
