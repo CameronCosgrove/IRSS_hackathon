@@ -1,0 +1,23 @@
+ These should work for both Mac and OS 
+ 
+Make sure you are added as a collaborator and have a PAT (personal access token)
+Set a current directory using:
+cd /your path/
+
+Clone the hackathon repository using:
+git clone <https address> 
+
+The data is now where you set your current directory 
+Set the new directory to the downloaded folder with
+cd /downloaded git folder path/
+Now you have all the files your teammates have and you can use the terminal/CMD to use git!
+
+To update the git folder with the stuff your team mates have added use:
+git pull
+To commit the files you have changed, first save the files, then use:
+git commit  -m “add an informative message to tell your team what you are adding to the repo”
+Committing doesn’t update the repository, it just packages up your changes. You send your changes using: 
+git push 
+You may be prompted to insert your GitHub username and password. You must use your PAT as your password due to GitHub’s new security features 
+These are all the commands you will need, all going well. 
+
