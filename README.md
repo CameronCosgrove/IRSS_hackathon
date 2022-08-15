@@ -19,7 +19,7 @@ For our special issue on unexplained sightings, the IJCC is seeking short resear
 
 The team with the best submissions will be issued with standard issue tinfoil hats – a sure way to protect your future research ideas from telepathic and ESP attack!
 Please submit your research submission as a PDF to cosgr0ve@mail.ubc.ca
-Any software or data visualisation tools can be used. There are no constraints but time.
+Any software or data visualisation tools can be used. There are no constraints but time. You can bring in extra datasets if you so wish. 
 
 # Happy hacking!
 
